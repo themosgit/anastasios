@@ -16,10 +16,9 @@ h3{margin:0.01px;
 img{border-radius:15px;
     padding: 5px}
 
-.socialmedia{float: right;
-             top: 50px;
+.socialmedia{top: 750px;
              position: absolute;
-             left: 765px;}
+             left: 565px;}
 
 .follow{left:750px ;
         position: absolute;
