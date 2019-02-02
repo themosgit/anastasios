@@ -33,7 +33,7 @@ img{border-radius:15px;
 
 h2{ border-bottom-color: gray;
     border-bottom-width: 2px;
-    border-block-end-style: solid}
+    border-bottom-style: solid;}
 
 .biop{position: absolute;
       font-size: 20px;
